@@ -51,6 +51,32 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "rich_text_wbkG3F": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YJD6AW": {
+          "type": "heading",
+          "settings": {
+            "text": "Vu sur",
+            "heading_tag": "h4",
+            "text_color": "#1a1a1a",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_YJD6AW"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "custom_liquid_VYpxfX": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -659,6 +685,7 @@
   },
   "order": [
     "slideshow",
+    "rich_text_wbkG3F",
     "custom_liquid_VYpxfX",
     "collection-list",
     "featured-collection",
