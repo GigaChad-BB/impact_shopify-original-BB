@@ -10,7 +10,9 @@
 {
   "current": {
     "icon_stroke_width": 2,
+    "header_background": "#ffffff",
     "text_font": "playfair_display_n4",
+    "cart_type": "drawer",
     "cart_icon": "shopping_basket",
     "content_for_index": [],
     "blocks": {

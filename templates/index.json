@@ -9,19 +9,6 @@
  */
 {
   "sections": {
-    "custom_liquid_3DiwPB": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div class=\"slideshow__text banner__box banner__box-slide_yy8jKK  content-container content-container--full-width-mobile color-scheme-64a2b88c-c634-4339-8359-e0e748086a7e gradient slideshow__text--center slideshow__text-mobile--center\"><style>\n                .lm-slide-head-slide_yy8jKK {\n                    font-size:25px !important;\n                    line-height:1.4;\n                    margin-bottom:10px;\n                }\n                  @media screen and (max-width: 600px){\n                    .lm-slide-head-slide_yy8jKK {\n                    font-size:20px !important;\n                }\n                  }\n                          @media only screen and (max-width: 749px) {\n                   .banner__content--flex-start>.banner__box-slide_yy8jKK {\n                    margin: 32px 0;\n                  }\n                          }\n              </style>\n              <h2 class=\"banner__heading inline-richtext lm-slide-head-slide_yy8jKK \">\n                Fini les impuretés ! \nUne peau nette, douce et lumineuse en 60 secondes.\n              </h2><div class=\"banner__text\">\n                <span>★★★★★ Noté 4.9/5 par plus de 12'000 clientes satisfaites.</span>\n              </div></div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
@@ -75,21 +62,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "Promotion text",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
       }
     },
     "collection-list": {
@@ -686,10 +658,8 @@
     }
   },
   "order": [
-    "custom_liquid_3DiwPB",
     "slideshow",
     "custom_liquid_VYpxfX",
-    "scrolling-text",
     "collection-list",
     "featured-collection",
     "impact-text",

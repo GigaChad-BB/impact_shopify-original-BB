@@ -16,6 +16,7 @@
       "blocks": {
         "message": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "Announce something here",
             "url": ""
@@ -25,9 +26,10 @@
       "block_order": [
         "message"
       ],
+      "disabled": true,
       "custom_css": [
-        ".annonce-bar-image_GzPQMg img {width: 160px; height:auto; }",
-        " .annonce-bar-image_GzPQMg svg {width: 160px; height:auto; }"
+        ".annonce-bar-image_GzPQMg img {width: 160px; height: auto;}",
+        ".annonce-bar-image_GzPQMg svg {width: 160px; height: auto;}"
       ],
       "settings": {
         "enable_sticky": false,
@@ -43,6 +45,7 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [],
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
