@@ -17,12 +17,12 @@
           "settings": {
             "image": "shopify://shop_images/header.jpg",
             "mobile_image": "shopify://shop_images/header.jpg",
-            "content_max_width": 780,
+            "content_max_width": 840,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "Fini les impuretés ! Une peau nette, douce et lumineuse en 60 secondes.★★★★★ Noté 4.9/5 par plus de 12'000 clientes satisfait",
-            "heading_tag": "h2",
+            "subheading": "Fini les impuretés ! Une peau nette, douce et lumineuse en 60 secondes.",
+            "title": "★★★★★ Noté 4.9/5 par plus de 12.000 clientes satisfaites",
+            "heading_tag": "h4",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
@@ -57,6 +57,7 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Cosmopolitan__revista__logotipo.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -69,6 +70,7 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/VOGUE_revista_-_logo.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -81,6 +83,7 @@
         "1664424046b00c932c-2": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Marie-Claire-Logo.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -93,6 +96,7 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ELLE_Magazine_Logo_svg.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
